@@ -1,2 +1,2 @@
 # helloworld
-Hello, World! in python
+Hello, World! in several languages
